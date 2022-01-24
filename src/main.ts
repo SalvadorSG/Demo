@@ -1,4 +1,4 @@
-import { Actor, IActor } from "./actors/Actor";
+import { Actor, IActor } from "./actors/Actor2";
 import { Bomb } from "./actors/Bomb";
 import { FPSViewer } from "./actors/FPSViewer";
 import { Hero } from "./actors/Hero2";

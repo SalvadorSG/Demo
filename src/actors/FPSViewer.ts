@@ -1,4 +1,4 @@
-import { Actor } from "./Actor";
+import { Actor } from "./Actor2";
 
 export class FPSViewer extends Actor {
   update() {}

@@ -1,5 +1,5 @@
 import { Point } from "../types/Point";
-import { Actor, IActor } from "./Actor";
+import { Actor, IActor } from "./Actor2";
 
 export class Bomb extends Actor implements IActor {
   bombSize: number;

@@ -1,7 +1,7 @@
 import { Size } from "../types/Size";
 import { Point } from "../types/Point";
 import { checkLimits } from "../utils/checkLimits";
-import { Actor, IActor } from "./Actor";
+import { Actor, IActor } from "./Actor2";
 
 const Sprite = require("../../public/img/characters/Hero.png");
 

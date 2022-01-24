@@ -1,4 +1,4 @@
-import { Actor, IActor } from "./Actor";
+import { Actor, IActor } from "./Actor2";
 
 const level = [
   "WWWWWWWWWWWWWWWWWWWWWWWW",
